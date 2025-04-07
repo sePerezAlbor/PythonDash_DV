@@ -3,3 +3,5 @@ pandas
 plotly
 gunicorn
 geopandas
+folium
+plotly.express
